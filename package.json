@@ -1,7 +1,7 @@
 {
   "homepage": "https://alexlemoc.github.io/alexis-cv",
   "name": "rainbow_cv",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "scripts": {
     "predeployed": "npm run build",
