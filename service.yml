@@ -1,0 +1,6 @@
+services:
+ seller:
+  git_url: https://github.com/AlexLemOC/alexis-cv.git
+  git_branch: master
+  dockerfile_path: "./Dockerfile"
+  build_root: seller
